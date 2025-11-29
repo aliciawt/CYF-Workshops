@@ -11,7 +11,7 @@
 // Part 2: Use the Node REPL to check your answers to Part 1) My answers were all correct
 
 // Part 3: Using Part 2, explain the difference between Math.trunc() and Math.floor() in your own words
-Math.trunc() simply takes out all fraction and leaves the SVGAnimatedInteger, while Math.floor() rounds down to the smaller SVGAnimatedInteger.
+//Math.trunc() simply takes out all fraction and leaves the SVGAnimatedInteger, while Math.floor() rounds down to the smaller Integer.//
 
 
 
