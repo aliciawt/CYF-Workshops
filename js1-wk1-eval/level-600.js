@@ -4,5 +4,5 @@
 // Declare a variable dayNumberOfTheYear with the value from this website
 
 // Declare a new variable daysLeftInTheYear by forming an expression with dayNumberOfTheYear
-
+// const daysLeftInTheYear = 365 - dayNumberOfTheYear;
 // Use console.log to check your answer
