@@ -7,8 +7,8 @@ const secret = "cake";
 confession = confession.replaceAll(secret,'x'.repeat(secret.length));
 
 
-// a) How many function calls are there in this file?
-// b) Explain what the expression confession.replaceAll(secret,'x'.repeat(secret.length)); is doing
-// c) How many inputs do we pass to replaceAll when we call it? How can you tell?
-// d) How any inputs do we pass to repeat when we call it?  How can you tell?
-// e) What kind of statement is on line 7?
+// a) How many function calls are there in this file? 2
+// b) Explain what the expression confession.replaceAll(secret,'x'.repeat(secret.length)); is doing --> it is replacing cake with xxxx (secret.length)
+// c) How many inputs do we pass to replaceAll when we call it? How can you tell? 2: secret (the thing to be replaced) and 'x'.repeat(secret.length) (the thing to replace it with)
+// d) How any inputs do we pass to repeat when we call it?  How can you tell? just 1, how many times does it need to be repeated
+// e) What kind of statement is on line 7? variable value reassignment
